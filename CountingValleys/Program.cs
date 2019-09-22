@@ -72,10 +72,13 @@ class Program
             //int result = countingValleys(n, s);
             int result = countingValleys(s);
 
-            textWriter.WriteLine(result);
+            //textWriter.WriteLine(result);
 
-            textWriter.Flush();
-            textWriter.Close();
+            //textWriter.Flush();
+            //textWriter.Close();
+
+
+
         }
     }
 }
